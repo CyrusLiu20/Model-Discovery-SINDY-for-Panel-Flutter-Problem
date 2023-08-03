@@ -1,2 +1,3 @@
 # Model-Discovery-SINDY-for-Panel-Flutter-Problem
-Model Discovery SINDY for Panel Flutter Problem
+
+Aeroelasticity is a field that deals with the interaction between aerodynamic forces and structural flexibility in aircraft components. Modeling the dynamic responses of these components can be challenging due to their complex behavior, making it difficult to represent them with conventional equations. However, a method called Sparse Identification of Nonlinear Dynamics (SINDy) offers a new approach for engineers to statistically characterize the underlying dynamics using empirical data. In this notebook, we explore the application of SINDy to a non-linear panel flutter problem.
